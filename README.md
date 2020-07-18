@@ -1,6 +1,6 @@
 # Aaron Lu - @aalu1418
 
-Hello! 👋🏼 
+Hello! 👋🏼   
 My name is Aaron and welcome to my github page. I am an aerospace engineer turned software developer, but I am fascinated by all things technology. My focus in the aerospace sector is mainly with control systems and algorithms, and in software development, web dev and decentralized tech. 
 
 I am currently working at [Conflux Network](http://confluxnetwork.org) on building out the decentralized technology space, and in my spare time I'm always looking for projects and ideas to tinker with.
