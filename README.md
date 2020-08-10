@@ -5,6 +5,11 @@ My name is Aaron and welcome to my github page. I am an aerospace engineer turne
 
 I am currently working at [Conflux Network](http://confluxnetwork.org) on building out the decentralized technology space, and in my spare time I'm always looking for projects and ideas to tinker with.
 
+More projects:  
+🎒: [George Brown Course Work](https://github.com/gb-blockchain-1920)  
+🦊: [Gitlab](https://gitlab.com/aalu1418)  
+💻: [Conflux Network Demonstrations](https://github.com/Conflux-Network-Global)  
+
 Learn more about me:  
 🐦: [@aalu1418](https://twitter.com/aalu1418)  
 🌎: [aalu1418.github.io](aalu1418.github.io)
