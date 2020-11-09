@@ -12,4 +12,4 @@ More code:
 
 Learn more about me:  
 🐦: [@aalu1418](https://twitter.com/aalu1418)  
-🌎: [aalu1418.github.io](aalu1418.github.io)
+🌎: [aalu1418.github.io](https://aalu1418.github.io)
