@@ -11,5 +11,4 @@ More code:
 💻: [Conflux Network - work related](https://github.com/Conflux-Network-Global)  
 
 Learn more about me:  
-🐦: [@aalu1418](https://twitter.com/aalu1418)  
 🌎: [aalu1418.github.io](https://aalu1418.github.io)
