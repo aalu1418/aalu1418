@@ -10,3 +10,6 @@ More code:
 
 Learn more about me:  
 🌎: [aalu1418.github.io](https://aalu1418.github.io)
+
+
+[ note: looks best in darkmode - logo from [Smashicons](https://www.flaticon.com/authors/smashicons)]
