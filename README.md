@@ -1,7 +1,7 @@
 ![](./name.png)
 
 Hello! 👋🏼   
-My name is Aaron and welcome to my github page. I am an aerospace engineer + software developer, but I am fascinated by all things technology. My specialties range from control systems and algorithms to web dev and decentralized tech. 
+My name is Aaron and welcome to my github page. I am an aerospace engineer + software developer, but I am fascinated by all things technology. My specialties are algorithms and decentralized tech, and am always willing to explore new things! 
 
 More code:  
 🎒: [George Brown Course Work](https://github.com/gb-blockchain-1920)  
