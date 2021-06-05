@@ -8,7 +8,7 @@ Learn more about me:
 
 More code that I have contributed too:  
 <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" height=20/>: [Open Source Development at Chainlink Labs](https://github.com/smartcontractkit)   
-<img src="https://github.com/Conflux-Chain/conflux-design-assets/blob/main/Logo/PNG/Conflux_Logo_Mark_White.png?raw=true" height=20/>: [Conflux Network - Tech & Integration Demos](https://github.com/Conflux-Network-Global)
+<img src="https://github.com/Conflux-Chain/conflux-design-assets/blob/main/Logo/PNG/Conflux_Logo_Mark_White.png?raw=true" height=20/>: [Conflux Network - Tech & Integration Demos](https://github.com/Conflux-Network-Global)  
 🎒: [George Brown Course Work](https://github.com/gb-blockchain-1920)  
 🦊: [Gitlab](https://gitlab.com/aalu1418)   
 
