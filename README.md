@@ -8,7 +8,7 @@ Learn more about me:
 🌎: [aalu1418.github.io](https://aalu1418.github.io)
 
 More code that I have contributed too:     
-![](./assets/conflux-dark.png#gh-dark-mode-only)![](./assets/conflux-light.png#gh-light-mode-only): [Conflux Network - Tech & Integration Demos](https://github.com/Conflux-Network-Global)  
+![](./assets/conflux-dark.png#gh-dark-mode-only)![](./assets/conflux-light.png#gh-light-mode-only) : [Conflux Network - Tech & Integration Demos](https://github.com/Conflux-Network-Global)  
 🎒: [George Brown Course Work](https://github.com/gb-blockchain-1920)  
 🦊: [Gitlab](https://gitlab.com/aalu1418)   
 
