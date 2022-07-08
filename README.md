@@ -4,7 +4,7 @@
 Hello! 🚀   
 My name is Aaron and welcome to my github page. I am an aerospace engineer + software developer, but I am fascinated by all things technology. My specialties are algorithms and decentralized tech, and am always excited to explore new things! 
 
-Learn more about me:  
+In my spare time, I enjoy tinkering with projects that make life easier. Learn more about me:  
 🌎: [aalu1418.github.io](https://aalu1418.github.io)
 
 More code that I have contributed too:     
