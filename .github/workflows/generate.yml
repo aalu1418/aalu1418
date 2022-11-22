@@ -1,0 +1,31 @@
+name: generate animation
+
+on:
+  # run automatically every 12 hours
+  schedule:
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:  
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - uses: actions/checkout@v3
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/github-snake.svg
+            assets/github-snake-dark.svg?palette=github-dark
+      - name: Add new RSS file
+        run: |
+          git config --global user.name 'aalu1418'
+          git config --global user.email 'aalu1418@users.noreply.github.com'
+          git commit -am "regenerate github snake animation"
+          git push
