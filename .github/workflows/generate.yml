@@ -25,6 +25,7 @@ jobs:
             assets/github-snake-dark.svg?palette=github-dark
       - name: Add new RSS file
         run: |
+          git add ./assets/.
           git config --global user.name 'aalu1418'
           git config --global user.email 'aalu1418@users.noreply.github.com'
           git commit -am "regenerate github snake animation"
