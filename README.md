@@ -14,5 +14,5 @@ More code that I have contributed too:
 
 [ logo from [Smashicons](https://www.flaticon.com/authors/smashicons)]
 
-![GitHub Snake Light](./assets/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](./assets/github-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/aalu1418/aalu1418/output/github-snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/aalu1418/aalu1418/output/github-snake-dark.svg#gh-dark-mode-only)
